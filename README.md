@@ -9,7 +9,7 @@ My name is Hitesh (Full Stack, Software Developer) from India! I do make website
   <summary><b>📈&nbsp;&nbsp;GitHub Stats</b></summary>
   <br/>
   <a href="https://github.com/hvlxh">
-    <img src="https://github-readme-stats.vercel.app/api?username=hvlxh&show_icons=true&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=hvlxh&count_private=true&show_icons=true&theme=dark"/>
   </a>
 </details>
 
@@ -17,7 +17,7 @@ My name is Hitesh (Full Stack, Software Developer) from India! I do make website
   <summary><b>📊&nbsp;&nbsp;Most Used Languages</b></summary>
   <br/>
   <a href="https://github.com/hvlxh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvlxh&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvlxh&size_weight=0.5&count_weight=0.5&theme=dark"/>
      </a>
   </p>
 </details>
