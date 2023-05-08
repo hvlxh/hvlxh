@@ -9,7 +9,7 @@ Hello there! I'm Hitesh (Full Stack, Software Developer) from India! I do make w
   <summary><b>&nbsp;&nbsp;GitHub Stats</b></summary>
   <br/>
   <a href="https://github.com/hvlxh">
-    <img src="/github-metrics.svg" width="500">
+    <img src="/profile.svg" width="500">
   </a>
 </details>
 
