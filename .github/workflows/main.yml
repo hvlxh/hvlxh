@@ -22,4 +22,3 @@ jobs:
           plugin_languages_indepth: yes
           filename: languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, repositories
