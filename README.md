@@ -25,7 +25,7 @@ Hello there! I'm Hitesh (Full Stack, Software Developer) from India! I do make w
   <summary><b>&nbsp;&nbsp;Most languages used</b></summary>
   <br/>
   <a href="https://github.com/hvlxh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvlxh&size_weight=0.5&count_weight=0.5&theme=dark&line_height=50"/>
+    <img src="/languages.svg" width="600">    
   </a>
 </details>
 
