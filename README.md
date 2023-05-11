@@ -9,7 +9,7 @@ Hello there! I'm Hitesh (Full Stack, Software Developer) from India! I do make w
   <summary><b>&nbsp;&nbsp;GitHub Stats</b></summary>
   <br/>
   <a href="https://github.com/hvlxh">
-    <img src="/profile.svg" width="500">
+    <img src="generated/profile.svg" width="500">
   </a>
 </details>
 
@@ -25,7 +25,7 @@ Hello there! I'm Hitesh (Full Stack, Software Developer) from India! I do make w
   <summary><b>&nbsp;&nbsp;Most languages used</b></summary>
   <br/>
   <a href="https://github.com/hvlxh">
-    <img src="/languages.svg" width="600">    
+    <img src="generated/languages.svg" width="600">    
   </a>
 </details>
 
