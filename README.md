@@ -17,7 +17,7 @@ Hello there! I'm Hitesh (Full Stack, Software Developer) from India! I do make w
   <summary><b>&nbsp;&nbsp;Wakatime Stats</b></summary>
   <br/>
   <a href="https://github.com/hvlxh">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hvlxh&theme=dark"/>
+    <img src="generated/wakatime.svg"/>
   </a>
 </details>
 
