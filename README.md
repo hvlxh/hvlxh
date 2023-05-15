@@ -2,8 +2,8 @@
 
 Hello there! I'm Hitesh (Full Stack, Software Developer) from India! I do make websites and i am interested in making discord bots and minecraft stuffs
 
-- I know Javascript, Typescript, C++
-- Currently working(suffering) on Unique Discord Bots, Softwares and some private
+- I know Javascript, Typescript, Rust
+- I work on some minecraft stuffs and discord bots 
 
 <details>
   <summary><b>&nbsp;&nbsp;GitHub Stats</b></summary>
