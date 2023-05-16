@@ -23,10 +23,10 @@ jobs:
           filename: generated/languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages: yes
-          plugin_languages_indepth: yes
+          plugin_languages_indepth: false
           plugin_languages_details: lines, bytes-size
-          plugin_languages_limit: 4
-          plugin_languages_analysis_timeout: 15
+          plugin_languages_limit: 100
+          plugin_languages_analysis_timeout: 60
 
       - uses: lowlighter/metrics@latest
         with:
