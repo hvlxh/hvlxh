@@ -44,6 +44,6 @@ Hello there! I'm Hitesh (Full Stack, Software Developer) from India! I do make w
 
 <p align="center"><br>
   <a href="https://discord.com/users/749560311312285696">
-    <img src="https://lanyard-profile-readme.vercel.app/api/749560311312285696"/>
+    <img src="https://lanyard-profile-readme.vercel.app/api/749560311312285696?hideDiscrim=true&idleMessage=Probably%20doing%20something%20else..."/>
   </a>
 </p>
