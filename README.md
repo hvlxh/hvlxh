@@ -1,49 +1,57 @@
-### [Hey! 👋](https://hvlxh.tk)
+# [Hey! 👋](https://hvlxh.tk)
 
-Hello there! I'm Hitesh (Full Stack, Software Developer) from India! I do make websites and i am interested in making discord bots and minecraft stuffs
+Welcome to my GitHub profile! I'm Hitesh, a Full Stack Software Developer from India. I enjoy creating websites and exploring various technologies, including building Discord bots and working on Minecraft projects.
 
-- I know Javascript, Typescript
-- I'm learning about Go and Rust
-- I work on some minecraft stuffs and discord bots 
+- 🌱 I'm proficient in JavaScript and TypeScript.
+- 📚 Currently, I'm expanding my knowledge in C++.
+- 💻 I'm actively engaged in developing Minecraft-related projects and Discord bots.
 
-<details>
-  <summary><b>&nbsp;&nbsp;GitHub Stats</b></summary>
-  <br/>
-  <a href="https://github.com/hvlxh">
-    <img src="generated/profile.svg" width="500">
-  </a>
-</details>
+## Skills
 
-<details>
-  <summary><b>&nbsp;&nbsp;Wakatime Stats</b></summary>
-  <br/>
-  <a href="https://github.com/hvlxh">
-    <img src="generated/wakatime.svg" width="500"/>
-  </a>
-</details>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,astro,mongodb,nodejs,netlify,nextjs,php,react,tailwind,vscode" class="skills">
 
-<details>
-  <summary><b>&nbsp;&nbsp;Most languages used</b></summary>
-  <br/>
-  <a href="https://github.com/hvlxh">
-    <img src="generated/languages.svg" width="500">    
-  </a>
-</details>
+## Statistics
 
-<p align="center">
-  <a href='https://ko-fi.com/hvlxh' target='_blank'>
-    <img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-  </a>
-</p>
+<div class="statistics">
+  <img src="https://wakatime.com/share/@hvlxh/f5cf5fac-8431-4c6f-8601-448394606e69.svg">
+  <img src="https://wakatime.com/share/@hvlxh/a3158925-1106-44fc-ad1d-71f498fe3ca2.svg">
+  <img src="https://wakatime.com/share/@hvlxh/4fcc8803-c665-41a4-a5d7-734c31cf6896.svg">
+  <img src="https://wakatime.com/share/@hvlxh/e1890439-8908-4e11-a1bc-1448c326257b.svg">
+</div>
 
-<p align="center">
-  <a href="https://github.com/hvlxh">
-    <img src="https://komarev.com/ghpvc/?username=hvlxh&style=for-the-badge"/>
-  </a>
-</p>
+## Github Statistics
 
-<p align="center"><br>
-  <a href="https://discord.com/users/749560311312285696">
-    <img src="https://lanyard-profile-readme.vercel.app/api/749560311312285696?hideDiscrim=true&idleMessage=Probably%20doing%20something%20else..."/>
-  </a>
-</p>
+<div class="gh-statistics">
+  <img src="https://github-readme-stats.vercel.app/api?username=hvlxh&amp;bg_color=00000000&amp;show_icons=true&amp;count_private=true&amp;card_width=500px">
+  <img src="https://streak-stats.demolab.com?user=hvlxh&amp;background=ECECEC09&amp;width=500px">
+</div>
+
+<style>
+  .skills {
+    width: 100%
+  }
+
+  .statistics {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    justify-items: center;
+  }
+
+  .statistics img {
+    max-width: 100%;
+    border: 0.5px solid white;
+    border-radius: 2px;
+  }
+
+  .gh-statistics {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    justify-items: center;
+  }
+
+  .gh-statistics img {
+    max-width: 100%;
+  }
+</style>
