@@ -11,6 +11,5 @@ Welcome to my GitHub profile! I'm Hitesh, a Full Stack Software Developer from I
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,astro,mongodb,nodejs,netlify,nextjs,php,react,tailwind,vscode" width="100%">
 
 ## Github Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=hvlxh&amp;bg_color=00000000&amp;show_icons=true&amp;count_private=true&amp;card_width=500px" width="50%" style="display: inline;">
-<img src="https://streak-stats.demolab.com?user=hvlxh&amp;background=FFFFFF&amp;width=500px" width="50%" style="display: inline;">
+![GitHub README Stats](https://github-readme-stats.vercel.app/api?username=hvlxh&amp;bg_color=00000000&amp;show_icons=true&amp;count_private=true&amp;card_width=500px)
+![Streak Stats](https://streak-stats.demolab.com?user=hvlxh&amp;background=FFFFFF&amp;width=500px)
